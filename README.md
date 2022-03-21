@@ -7,17 +7,17 @@ Du kommer få applicera denna kunskap sen i olika övningar.
 
 ## 2.1
 
-**Film:** https://vimeo.com/653010533
+**Film:** https://vimeo.com/653010533/dc98571535
 
 **Övning:** https://gist.github.com/zocom-christoffer-wallenberg/df0c5cc794272ac4681caba4aae8ea5e
 
 ## 2.2
 
-**Film:** https://vimeo.com/653010575
+**Film:** https://vimeo.com/653010575/0139fb6b2c
 
 ## 2.3
 
-**Film:** https://vimeo.com/653010630
+**Film:** https://vimeo.com/653010630/c876c78057
 
 **Övning:** https://gist.github.com/zocom-christoffer-wallenberg/8fce409c0153ad6d02bf0fb62429b27a
 
